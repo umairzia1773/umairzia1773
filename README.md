@@ -54,7 +54,13 @@
 
 
 ---
+### 🧰 Most Used Languages
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairzia1773&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umair-zia-061ba5261)
