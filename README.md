@@ -61,6 +61,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairzia1773&hide=jupyter%20notebook&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+---
+### 📄 Resume
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1kRiU1T3a35xN54Q-lv2AuTmOuUnkMTny/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View_My_Resume-blue?style=for-the-badge&logo=readthedocs" alt="View Resume" />
+  </a>
+  <a href="https://drive.google.com/uc?export=download&id=1kRiU1T3a35xN54Q-lv2AuTmOuUnkMTny" target="_blank">
+    <img src="https://img.shields.io/badge/Download_Resume-grey?style=for-the-badge&logo=googledrive" alt="Download Resume" />
+  </a>
+</p>
 
 ---
 ### 📫 Connect with Me
