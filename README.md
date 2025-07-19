@@ -1,16 +1,21 @@
-<h1 align="center">Hi 👋, I'm Umair Zia</h1>
-<h3 align="center">Data Scientist | Web3 Enthusiast | Crypto Trader & Analyst  🚀</h3>
+<h1 align="center">Data Scientist | Web3 Enthusiast | Crypto Trader & Analyst 🚀</h1>
 
-<img align="right" alt="GIF" height="250px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Developer" height="250" />
+</p>
 
- 
-Innovating at the intersection of **AI, ML, and Blockchain**, with hands-on experience in decentralized apps, smart contracts, and GenAI systems.
+<p align="center">
+  Innovating at the intersection of <strong>AI, ML, and Blockchain</strong>, with hands-on experience in 
+  decentralized applications, smart contracts, and GenAI systems.
+</p>
 
-● AI & ML Engineer | Blockchain Developer  
-● Building Intelligent Web3 Systems  
-● Data Science & Crypto Analytics Specialist  
-● GenAI | LLMs | zk-SNARKs | Smart Contracts  
-● Active Trader | Decentralized Tech Advocate
+---
+
+- 🧠 AI & ML Engineer | Blockchain Developer  
+- 🧩 Building Intelligent Web3 Systems  
+- 📊 Data Science & Crypto Analytics Specialist  
+- 🧬 GenAI | LLMs | zk-SNARKs | Smart Contracts  
+- 📈 Active Trader | Decentralized Tech Advocate
 
 
 ---
