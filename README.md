@@ -6,19 +6,12 @@
 </p>
 
 <p align="center">
-  Innovating at the intersection of <strong>AI, ML, and Blockchain</strong>, with hands-on experience in 
-  decentralized applications, smart contracts, and GenAI systems.
-</p>
-
----
-
-- 🧠 AI & ML Engineer | Blockchain Developer  
+  - 🧠 AI & ML Engineer | Blockchain Developer  
 - 🧩 Building Intelligent Web3 Systems  
 - 📊 Data Science & Crypto Analytics Specialist  
 - 🧬 GenAI | LLMs | zk-SNARKs | Smart Contracts  
 - 📈 Active Trader | Decentralized Tech Advocate
-
-
+</p>
 ---
 
 ### 🛠️ Tools and Technologies
