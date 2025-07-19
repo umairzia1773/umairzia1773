@@ -54,11 +54,18 @@
 
 
 ---
-### 🧰 Most Used Languages
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairzia1773&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=umairzia1773&show_icons=true&theme=radical" alt="Umair Zia's GitHub Stats" />
 </p>
+
+### 🧰 Most Used Languages (Excluding Jupyter)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairzia1773&hide=jupyter%20notebook&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 
 ---
 ### 📫 Connect with Me
