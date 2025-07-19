@@ -10,11 +10,11 @@
 </p>
 
 ---
-- 📊 Data Science & Crypto Analytics Specialist 
-- 🧠 AI & ML Engineer | Blockchain Developer  
-- 🧩 Building Intelligent Web3 Systems   
-- 🧬 GenAI | LLMs | zk-SNARKs | Smart Contracts  
-- 📈 Active Trader | Decentralized Tech Advocate
+- 📊 **Data Science & Crypto Analytics Specialist**  
+- 🧠 **AI & ML Engineer | Blockchain Developer**  
+- 🧩 **Building Intelligent Web3 Systems**  
+- 🧬 **GenAI | LLMs | zk-SNARKs | Smart Contracts**  
+- 📈 **Active Trader | Decentralized Tech Advocate**
 
 ---
 
@@ -55,7 +55,6 @@
 
 ---
 
-### 📫 Connect with Me
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umair-zia-061ba5261)
