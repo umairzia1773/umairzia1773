@@ -9,16 +9,10 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Developer" height="250" />
 </p>
 
-<p align="center">
-  Innovating at the intersection of <strong>AI, ML, and Blockchain</strong>, with hands-on experience in 
-  decentralized applications, smart contracts, and GenAI systems.
-</p>
-
 ---
-
+- 📊 Data Science & Crypto Analytics Specialist 
 - 🧠 AI & ML Engineer | Blockchain Developer  
-- 🧩 Building Intelligent Web3 Systems  
-- 📊 Data Science & Crypto Analytics Specialist  
+- 🧩 Building Intelligent Web3 Systems   
 - 🧬 GenAI | LLMs | zk-SNARKs | Smart Contracts  
 - 📈 Active Trader | Decentralized Tech Advocate
 
