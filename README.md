@@ -1,4 +1,5 @@
-<h1 align="center">Data Scientist | Web3 Enthusiast | Crypto Trader & Analyst 🚀</h1>
+<h1 align="center">👋 Hi 👋, I'm Umair Zia</h1>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Developer" height="250" />
