@@ -50,14 +50,19 @@
 
 [![AI-Generated NFT Game](https://img.shields.io/badge/-AI%20NFT%20Game-purple?style=for-the-badge)](https://github.com/umairzia1773/AI-NFT-Generator)
 
+[![Final Year Project](https://img.shields.io/badge/-AI%20Web%20Scraping%20Bot-brightgreen?style=for-the-badge)](https://github.com/umairzia1773/Final-Year-Project)
+
 
 ---
 
 ### 📫 Connect with Me
+### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umair-zia-061ba5261)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/umairziact)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:umairzia173@gmail.com)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/1EtqT6UVkM/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_.umair_.1773?igsh=MWNidXFhY3A4bzVmMA==)
+
 
 
 
