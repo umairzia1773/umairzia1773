@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Umair Zia</h1>
 
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Developer" height="250" />
 </p>
 
 <p align="center">
-  - 🧠 AI & ML Engineer | Blockchain Developer  
-- 🧩 Building Intelligent Web3 Systems  
-- 📊 Data Science & Crypto Analytics Specialist  
-- 🧬 GenAI | LLMs | zk-SNARKs | Smart Contracts  
-- 📈 Active Trader | Decentralized Tech Advocate
+  <strong>🧠 AI & ML Engineer | Blockchain Developer</strong><br>
+  <strong>🧩 Building Intelligent Web3 Systems</strong><br>
+  <strong>📊 Data Science & Crypto Analytics Specialist</strong><br>
+  <strong>🧬 GenAI | LLMs | zk-SNARKs | Smart Contracts</strong><br>
+  <strong>📈 Active Trader | Decentralized Tech Advocate</strong>
 </p>
----
+
 
 ### 🛠️ Tools and Technologies
 ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
